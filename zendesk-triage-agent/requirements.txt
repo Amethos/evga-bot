@@ -1,4 +1,0 @@
-anthropic>=1.11
-playwright>=1.49
-pydantic>=2.7
-PyYAML>=6.0

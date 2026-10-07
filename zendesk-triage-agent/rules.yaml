@@ -1,2 +1,0 @@
-# Rules the agent follows. Add them with `python -m triage_agent teach "..."`.
-rules: []
